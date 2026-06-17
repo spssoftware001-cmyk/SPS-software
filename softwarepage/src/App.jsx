@@ -1,5 +1,5 @@
 import { useState } from 'react'
- 
+ import AboutUS from './components/AboutUs'
  
 
 function App() {
@@ -7,6 +7,7 @@ function App() {
 
   return (
     <>
+    <AboutUS />
  
     </>
   )
